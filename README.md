@@ -38,6 +38,11 @@
 - 🤸‍♂️ **Hobbies:** Gymnastics, calisthenics & yoga for mind-body balance.
 - ☕ **Life Motto:** “Code well, move well, live well.”
 - 🛠️ **Work style:** Efficient, always learning, team player, problem solver.
+- ☕ **Coffee Enthusiast:** Always searching for the perfect brew to fuel my code.
+- 🚀 My code runs on Java... and large doses of coffee.
+- 🧑‍💻☕ Coding is my craft, coffee is my fuel.
+
+
 
 ---
 
@@ -52,13 +57,13 @@
 ---
 
 ```text
-while(true) {
-    code();
-    coffee.drink();
-    bugs.fix();
-    move();
-    repeat();
-}
+do {
+    writeCode();
+    sipCoffee();
+    debug();
+    gymSession();
+    readSomething();
+} while (true);
 ```
 
 ---
