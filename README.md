@@ -7,21 +7,8 @@
 
 **Backend & Fullstack Engineer | ☁️ Cloud Developer | 🤖 AI Explorer**
 
----
-
-```text
-while(true) {
-    code();
-    coffee.drink();
-    bugs.fix();
-    move();
-    repeat();
-}
-```
-
----
-
 ## 🚀 My Tech Universe
+---
 
 ### 🔧 Tech & Tools I Love
 
@@ -30,13 +17,11 @@ while(true) {
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI-272727?logo=openai&logoColor=white)
 ![Cloud](https://img.shields.io/badge/-Cloud-4285F4?logo=cloudflare&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -63,6 +48,18 @@ while(true) {
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn_Mauricio-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mauricio-hernandez-reyes-soft/)
   [![Website](https://img.shields.io/badge/-Visit_my_website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mauriciohdez.com)
   [![Email](https://img.shields.io/badge/-Email_me-D14836?style=for-the-badge&logo=gmail)](mailto:mauricio@cloudfrog.com.mx)
+
+---
+
+```text
+while(true) {
+    code();
+    coffee.drink();
+    bugs.fix();
+    move();
+    repeat();
+}
+```
 
 ---
 
