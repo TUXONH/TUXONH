@@ -1,71 +1,76 @@
-# Welcome, I'm Mauricio Hernandez 👋
 
-## About Me
+# Hey there! I'm Mauricio Hernandez 👨‍💻🤸‍♂️🚀
 
-💻 Software engineer passionate about backend and fullstack development.  
-🚀 Always learning and experimenting with new technologies—especially in Java and AI.  
-🤸‍♂️ Outside of code, I love gymnastics, calisthenics, and yoga to keep balance in life.
+[![Website](https://img.shields.io/badge/-mauriciohdez.com-4285F4?style=flat&logo=googlechrome)](https://mauriciohdez.com)
+[![LinkedIn](https://img.shields.io/badge/-Let's_Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mauricio-hernandez-reyes-soft/)
+[![Email](https://img.shields.io/badge/-📧_Email_me-D14836?style=flat&logo=gmail)](mailto:mauricio@cloudfrog.com.mx)
 
-✨ I strive to build efficient, clean, and scalable solutions.  
-🤝 Teamwork, sharing knowledge, and building real-impact projects keep me motivated.
+**Backend & Fullstack Engineer | ☁️ Cloud Developer | 🤖 AI Explorer**
 
 ---
 
-### Backend & Fullstack Developer
+```text
+while(true) {
+    code();
+    coffee.drink();
+    bugs.fix();
+    move();
+    repeat();
+}
+```
+
+---
+
+## 🚀 My Tech Universe
+
+### 🔧 Tech & Tools I Love
+
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![AI](https://img.shields.io/badge/-AI-272727?logo=openai&logoColor=white)
+![Cloud](https://img.shields.io/badge/-Cloud-4285F4?logo=cloudflare&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🌟 Current Focus
+
+- 🔭 **Building:** Reliable backend and fullstack solutions for web and AI projects.
+- 📚 **Learning:** More about distributed systems, container orchestration, and creative AI.
+- 🤝 **Open to:** Collaborations in backend, AI, and web development projects.
+
+---
+
+### 💡 A Little About Me
+
+- 🤸‍♂️ **Hobbies:** Gymnastics, calisthenics & yoga for mind-body balance.
+- ☕ **Life Motto:** “Code well, move well, live well.”
+- 🛠️ **Work style:** Efficient, always learning, team player, problem solver.
+
+---
+
+### 📬 Let’s Connect!
+
+- 💬 **Ask me about:** Backend architectures, scalable APIs, AI integration, healthy routines for devs.
+- 📫 **Reach out:**
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn_Mauricio-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mauricio-hernandez-reyes-soft/)
+  [![Website](https://img.shields.io/badge/-Visit_my_website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mauriciohdez.com)
+  [![Email](https://img.shields.io/badge/-Email_me-D14836?style=for-the-badge&logo=gmail)](mailto:mauricio@cloudfrog.com.mx)
+
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TUXONH&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
 
-<!-- GitHub Trophies (optional, activate if you like!)
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=TUXONH&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](#)
--->
-
-## Technologies & Tools
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="AI" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUXONH&show_icons=true&theme=radical&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUXONH&layout=compact&theme=radical)
 
 ---
 
-## Projects & Blog
-
-Very soon I'll be sharing my projects and articles about development, productivity, and technology on my [personal blog](https://mauriciohdez.com/).
-
----
-
-## Links
-
-[![Website](https://img.shields.io/badge/Web-mauriciohdez.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://mauriciohdez.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio%20Hernandez%20Reyes-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mauricio-hernandez-reyes-soft/)
-
-## Contact
-
-[![Email](https://img.shields.io/badge/mauricio@cloudfrog.com.mx-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mauricio@cloudfrog.com.mx)
-
----
+*Personal blog coming soon on [mauriciohdez.com](https://mauriciohdez.com) – stay tuned!*
